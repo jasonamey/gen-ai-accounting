@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "principles of accounting",
+        "questions": [
+            "What are the fundamental concepts and principles that govern accounting practices?",
+            "How does the accrual basis of accounting differ from the cash basis of accounting?",
+            "What are the Generally Accepted Accounting Principles (GAAP) and how are they applied in financial reporting?",
+            "How does the matching principle contribute to accurate financial reporting?",
+            "What are the key differences between financial accounting and managerial accounting?",
+            "How does the concept of materiality influence the reporting of financial information?",
+            "What is the importance of transparency and disclosure in financial reporting?",
+            "How are the principles of conservatism and consistency reflected in accounting practices?",
+            "What impact do international accounting standards have on accounting principles and practices?",
+            "How do ethical considerations play a role in applying accounting principles and maintaining financial integrity?"
+        ]
+    },
+    {
+        "subject": "financial accounting",
+        "questions": [
+            "What are the generally accepted accounting principles (GAAP) and how do they impact financial reporting?",
+            "How does accrual accounting differ from cash accounting, and what are the advantages and disadvantages of each method?",
+            "What are the key components of a company's financial statements (balance sheet, income statement, cash flow statement) and how are they interconnected?",
+            "How does depreciation affect a company's financial statements and overall financial health?",
+            "What is the role of auditors in financial accounting, and how do they contribute to financial transparency and integrity?",
+            "What are the specific accounting standards and regulations that apply to public companies versus private companies?",
+            "How do changes in accounting policies or estimates impact a company's financial statements and financial performance?",
+            "What are some common financial ratios used to assess a company's liquidity, solvency, and profitability?",
+            "How does international financial reporting standards (IFRS) differ from US GAAP, and what are the implications for multinational companies?",
+            "How can financial accounting information be used to analyze and interpret a company's past performance, forecast future trends, and make informed business decisions?"
+        ]
+    },
+    {
+        "subject": "accounting information systems",
+        "questions": [
+            "What are the key components of an accounting information system?",
+            "How do accounting information systems help organizations in financial decision-making?",
+            "What are the common challenges faced in the implementation of accounting information systems?",
+            "How do accounting information systems ensure data integrity and security?",
+            "What are the latest trends and technologies in accounting information systems?",
+            "How can accounting information systems help in fraud detection and prevention?",
+            "What are the best practices for designing and implementing accounting information systems?",
+            "How do accounting information systems support regulatory compliance and reporting requirements?",
+            "What are the differences between manual and computerized accounting information systems?",
+            "How do organizations select and evaluate accounting information system software vendors?"
+        ]
+    },
+    {
+        "subject": "cost accounting",
+        "questions": [
+            "What are the key principles and concepts of cost accounting?",
+            "How does cost accounting differ from financial accounting?",
+            "What are the different methods of cost accounting, and how are they applied in various industries?",
+            "How do companies use cost accounting to analyze and control costs?",
+            "What role does cost accounting play in decision-making within an organization?",
+            "How are costs classified and allocated in cost accounting systems?",
+            "What are some common challenges and limitations of cost accounting practices?",
+            "How has technology impacted the field of cost accounting, and what tools are available to aid in cost analysis?",
+            "What is the relationship between cost accounting and performance measurement?",
+            "How do industry regulations and standards influence cost accounting practices?"
+        ]
+    },
+    {
+        "subject": "international business",
+        "questions": [
+            "What are the key challenges faced by multinational corporations when operating in emerging markets?",
+            "How do cultural differences impact negotiation strategies in international business?",
+            "What are the current trends in international trade policies impacting global businesses?",
+            "How do currency exchange rates affect international business operations and decision-making?",
+            "What are the best practices for managing supply chain and logistics in a global business environment?",
+            "How do political instability and regulatory changes affect international business expansion and investment decisions?",
+            "What strategies do successful multinational companies employ to manage cross-border risk effectively?",
+            "How does technology and digital transformation influence global marketing strategies in international business?",
+            "What are the implications of trade agreements like the Trans-Pacific Partnership (TPP) on international business competitiveness?",
+            "How do ethical considerations and corporate social responsibility play a role in the global operations of multinational corporations?"
+        ]
+    },
+    {
+        "subject": "auditing",
+        "questions": [
+            "What are the key principles of auditing and how do auditors adhere to them?",
+            "How does the audit process differ between financial audits and operational audits?",
+            "What is the importance of audit planning in ensuring an effective audit process?",
+            "How do auditors assess and respond to risk during an audit engagement?",
+            "What are some common audit procedures used to gather evidence and evaluate internal controls?",
+            "How do auditors determine materiality in the context of financial statement audits?",
+            "What are the main differences between external audits and internal audits conducted within an organization?",
+            "How do audit findings and recommendations contribute to improving organizational performance and governance?",
+            "What ethical considerations should auditors be mindful of during the audit process?",
+            "How do regulatory requirements and auditing standards influence the conduct of auditors in various industries?"
+        ]
+    },
+    {
+        "subject": "federal income taxation",
+        "questions": [
+            "What are the key changes in federal income tax laws for the current tax year?",
+            "How is the federal income tax rate determined for individuals in different tax brackets?",
+            "What are the deductions and credits available for reducing taxable income on a federal income tax return?",
+            "How are capital gains taxed at the federal level, and are there any special considerations for long-term versus short-term gains?",
+            "What are the requirements for filing a federal income tax return as a self-employed individual or independent contractor?",
+            "How does the federal tax system treat income from investments such as dividends, interest, and rental properties?",
+            "What are the rules and limitations surrounding deductions for charitable contributions on a federal income tax return?",
+            "How are retirement account contributions, distributions, and withdrawals taxed at the federal level?",
+            "What are the consequences of failing to report income or making errors on a federal income tax return?",
+            "What resources are available for free or low-cost assistance with understanding federal income tax laws and filing tax returns accurately?"
+        ]
+    }
+]
